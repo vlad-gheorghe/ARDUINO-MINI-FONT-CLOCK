@@ -7,3 +7,5 @@ Detalii https://vlad-gheorghe.blogspot.ro/2017/09/ceas-cu-alarma-si-termometru-c
 
 
 ![poza](https://github.com/vlad-gheorghe/ARDUINO-MINI-FONT-CLOCK/blob/master/IMAG0537.jpg)
+
+![poza](https://github.com/vlad-gheorghe/ARDUINO-MINI-FONT-CLOCK/blob/master/IMAG0334.jpg)
